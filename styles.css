@@ -1,0 +1,75 @@
+.no_bullets {
+    list-style: none;
+}
+
+.inner_box {
+    border: 3px solid black;
+    margin: 4%;
+}
+
+.picture_size {
+    width: 300px;
+}
+
+.picture_box_left {
+    width: 137px;
+}
+
+.picture_box_right {
+    width: 137px;
+}
+
+.border_frame {
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.outer_box_cheetah {
+    width: 330px;
+    border: 3px solid black;
+    padding-left: 8px;
+    box-shadow: 5px 5px rgb(83, 82, 82);
+    background-color: aquamarine;
+}
+
+.outer_box_lynx {
+    width: 330px;
+    border: 3px solid black;
+    padding-left: 8px;
+    box-shadow: 5px 5px rgb(83, 82, 82);
+    background-color: rgb(141, 247, 139);
+}
+
+.outer_box_panther {
+    width: 330px;
+    border: 3px solid black;
+    padding-left: 8px;
+    box-shadow: 5px 5px rgb(83, 82, 82);
+    background-color: rgb(255, 176, 176);
+}
+
+img, h1, ul, p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.red_text {
+    color: red;
+}
+
+.place_space {
+    height: 10px;
+    width: 10px;
+}
+
+.box_placement {
+    display: flex;
+    flex-wrap: wrap;
+}
